@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dog\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Field
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=Dog()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Dog\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ moves()
+comment5.params=
+comment5.target=void\ movement()
+comment6.params=
+comment6.target=void\ idle()
+comment7.params=
+comment7.target=void\ deadDog()
+comment8.params=
+comment8.target=void\ jump()
+comment9.params=
+comment9.target=void\ fall()
+comment9.text=\r\nfall()\ will\ be\ controlled\ whenever\ the\ Dog\ is\ in\ the\ air.It\ decreses\ y\ by\ .5,\ creating\ gravity\r\n
+numComments=10
